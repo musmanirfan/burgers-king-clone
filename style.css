@@ -260,7 +260,7 @@ p {
     font-family: flame-regularSans;
 }
 
-.footer-top-m{
+.footer-top-m {
     display: none;
 }
 
@@ -268,7 +268,7 @@ p {
 
 /* footer mid started */
 
-.footer-mid-m{
+.footer-mid-m {
     display: none;
 }
 
@@ -362,13 +362,13 @@ p {
         width: 100%;
     }
 
-    .hero-m>button{
+    .hero-m>button {
         width: 95%;
         margin-top: 15px;
     }
 
 
-    .card-s{
+    .card-s {
         margin-top: 20px;
         width: 100%;
         display: flex;
@@ -387,40 +387,40 @@ p {
         width: 95%;
     }
 
-    .footer-top{
+    .footer-top {
         display: none;
     }
 
-    .footer-top-m{
+    .footer-top-m {
         display: block;
         background-color: #EBE2D3;
     }
 
-    .f-t-i-h{
+    .f-t-i-h {
         display: flex;
         flex-direction: row;
         justify-content: center;
         align-items: center;
     }
 
-    .f-t-h{
+    .f-t-h {
         width: 60%;
     }
 
-    .f-t-h>h1{
+    .f-t-h>h1 {
         font-family: flame-bold;
     }
 
-    .f-img-m{
+    .f-img-m {
         width: 30%;
     }
 
-    .f-img-m>img{
+    .f-img-m>img {
         width: 100%;
         margin-top: -40px;
     }
 
-    .f-t-btn-m{
+    .f-t-btn-m {
         display: flex;
         justify-content: center;
         flex-direction: row;
@@ -429,11 +429,11 @@ p {
         width: 100%;
     }
 
-    .f-t-btn-m>a>img{
-        width: 150px !important;
+    .f-t-btn-m>a>img {
+        width: 130px !important;
     }
 
-    .f-content-m>p{
+    .f-content-m>p {
         width: 95%;
         text-align: center;
         font-family: flame-regularSans;
@@ -442,18 +442,20 @@ p {
         line-height: 20px;
         margin-bottom: 20px;
     }
-    .f-content-m{
+
+    .f-content-m {
         display: flex;
         justify-content: center;
         flex-direction: column;
         align-items: center;
     }
 
-    .footer-mid{
+    .footer-mid {
         display: none !important;
     }
 
     .footer-mid-m {
+        height: fit-content !important;
         display: block;
         display: flex !important;
         justify-content: center !important;
@@ -466,15 +468,15 @@ p {
         line-height: 24px;
         margin-bottom: 60px;
     }
-    
+
     .footer-mid-m>p {
         margin-bottom: 0px !important;
         color: #ffffff;
         text-align: center;
     }
-    
+
     .footer-mid-m>p>a {
         color: #ffffff !important;
-    
+
     }
 }
