@@ -455,7 +455,7 @@ p {
     }
 
     .footer-mid-m {
-        height: fit-content !important;
+        height: 70px !important;
         display: block;
         display: flex !important;
         justify-content: center !important;
