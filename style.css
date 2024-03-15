@@ -426,6 +426,11 @@ p {
         flex-direction: row;
         gap: 20px;
         margin-top: 20px;
+        width: 100%;
+    }
+
+    .f-t-btn-m>a>img{
+        width: 150px !important;
     }
 
     .f-content-m>p{
