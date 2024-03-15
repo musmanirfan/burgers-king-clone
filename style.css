@@ -334,6 +334,12 @@ p {
 
 
 @media only screen and (max-width: 600px) {
+    .nav{
+        margin-left: 2%;
+        margin-right: 2%;
+    }
+    
+    
     .btn-cal {
         display: none;
     }
